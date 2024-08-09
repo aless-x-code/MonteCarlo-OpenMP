@@ -1,4 +1,4 @@
-# MonteCarlo-OpenMP
+# Approximate Pi (Monte Carlo Method)
 
  <b> Approximate Pi (Monte Carlo Method) C++, OpenMP, Parallels Desktop </b>	<br>
 • A C++ program that applies the Monte Carlo simulation to approximate Pi <br>
